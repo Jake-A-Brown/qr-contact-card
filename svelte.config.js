@@ -12,7 +12,7 @@ const config = {
     }),
 
     paths: {
-      base: '/qr-contact-card'   // ← fix typo! should be your actual repo name
+      base: ''   // ← fix typo! should be your actual repo name
       // if repo = yourusername.github.io → base: ''
     }
   }
